@@ -1,7 +1,7 @@
 package piftik.github.com.experementsgithub;
 
 import android.os.Bundle;
-import android.support.v7.app.*;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
