@@ -13,4 +13,8 @@ public class MainActivity extends AppCompatActivity {
 //        change to conflict
 //        too more change
     }
+
+    public void methodToConflictSecond() {
+
+    }
 }
