@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         mTextView = (TextView) findViewById(R.id.textView);
         imInProcess();
-
     }
 
     public void imInProcess() {
