@@ -9,15 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//        first change
-//        change to conflict
-//        too more change
-    }
-    public void firstMethodToConflict(){
-        int some;
-    }
-
-    public void methodToConflictSecond() {
-//        some comment
+//  Rebase
     }
 }
