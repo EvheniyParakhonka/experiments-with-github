@@ -13,13 +13,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mTextView = (TextView) findViewById(R.id.textView);
-        imInProcess();
+        useThisMethod();
     }
 
-    public void imInProcess() {
-        String rebase;
-        rebase = "rebasing so hard";
-        mTextView.setText(rebase);
-
+    private void useThisMethod() {
+        mTextView.length();
     }
 }
