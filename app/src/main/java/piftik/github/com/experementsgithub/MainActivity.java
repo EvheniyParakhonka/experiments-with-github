@@ -18,7 +18,9 @@ public class MainActivity extends AppCompatActivity {
 //       rebase second
     }
     public void imInProcess(){
-        String rebase = "Second";
+        String rebase;
+        rebase = "rebasing so hard";
         mTextView.setText(rebase);
+
     }
 }
