@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
 //       rebase second
     }
     public void imInProcess(){
-        
+        String rebase = "Second";
     }
 }
