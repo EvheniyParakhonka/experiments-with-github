@@ -1,0 +1,3 @@
+[submodule "Weather"]
+	path = Weather
+	url = https://github.com/piftik/Weather.git
